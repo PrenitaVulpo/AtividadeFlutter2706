@@ -21,12 +21,12 @@ class MyApp extends StatelessWidget {
             children: [
               Image.network('https://i.pinimg.com/236x/40/8a/40/408a4073e9680a3c6f94fdd2cec6b2dd--tropical-landscaping-tropical-'
                   'gardens.jpg', height: 100, width: 100,),
-              Image.asset("images/diamante_icone.png", height: 100, width: 100,)
+              Image.asset("images/1.jpeg", height: 100, width: 100,)
             ],
           ),
             Row( mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
-              Image.asset('images/image-human-brain_99433-298.jpg', height: 100, width: 100,),
+              Image.asset('2.jpg', height: 100, width: 100,),
               Image.network('https://i.pinimg.com/236x/58/54/8c/58548cca57e86abdbeb3d4d494e350d8.jpg', height: 100, width: 100,)
               ]
             )
