@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
           ),
             Row( mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
-              Image.asset('2.jpg', height: 100, width: 100,),
+              Image.asset('2.jpeg', height: 100, width: 100,),
               Image.network('https://i.pinimg.com/236x/58/54/8c/58548cca57e86abdbeb3d4d494e350d8.jpg', height: 100, width: 100,)
               ]
             )
